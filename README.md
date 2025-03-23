@@ -205,13 +205,13 @@
             <div class="info-box">
                 <h2>ﻣؤﺳﺳﺔ ﺷيخه عبدالله اﻟﻧﺗﯾﻔﺎت ﻟﻠﻧﻘﻠﯾﺎت</h2>
                 <div class="info-field">
-                    <h2>ﻣؤﺳﺳﺔ ﺷيخه عبدالله اﻟﻧﺗﯾﻔﺎت ﻟﻠﻧﻘﻠﯾﺎت</h2>
+                    <input type="text" id="companyAddress" value=="الرياض">
                 </div>
                 <div class="info-field">
-                    <input type="text" id="companyAddress" placeholder="310822816500003">
+                    <input type="text" id="companyAddress" value=="310822816500003">
                 </div>
                 <div class="info-field">
-                    <input type="text" id="companyPhone" placeholder="0592026994">
+                    <input type="text" id="companyPhone" value="0592026994">
                 </div>
             </div>
             <div class="info-box">
