@@ -205,14 +205,14 @@
             <div class="info-box">
                 <h2>ﻣؤﺳﺳﺔ ﺷيخه عبدالله اﻟﻧﺗﯾﻔﺎت ﻟﻠﻧﻘﻠﯾﺎت</h2>
                 <div class="info-field">
-                    <input type="text" id="companyName" placeholder="الرياض">
-                </div>
-                <div class="info-field">
-                    <input type="text" id="companyAddress" placeholder="310822816500003">
-                </div>
-                <div class="info-field">
-                    <input type="text" id="companyPhone" placeholder="0592026994">
-                </div>
+    <input type="text" id="companyName" placeholder="الرياض" value="الرياض" readonly>
+</div>
+<div class="info-field">
+    <input type="text" id="companyAddress" placeholder="310822816500003" value="310822816500003" readonly>
+</div>
+<div class="info-field">
+    <input type="text" id="companyPhone" placeholder="0592026994" value="0592026994" readonly>
+</div>
             </div>
             <div class="info-box">
                 <h2>معلومات العميل</h2>
