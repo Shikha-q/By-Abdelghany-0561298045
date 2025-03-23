@@ -203,9 +203,9 @@
 
         <div class="info-container">
             <div class="info-box">
-                <h2>ﻣؤﺳﺳﺔ ﺷيخه ﻋﺑدﷱ اﻟﻧﺗﯾﻔﺎت ﻟﻠﻧﻘﻠﯾﺎت</h2>
+                <h2>ﻣؤﺳﺳﺔ ﺷيخه عبدالله اﻟﻧﺗﯾﻔﺎت ﻟﻠﻧﻘﻠﯾﺎت</h2>
                 <div class="info-field">
-                    <input type="text" id="companyName" placeholder="الرياض">
+                    <h2>ﻣؤﺳﺳﺔ ﺷيخه عبدالله اﻟﻧﺗﯾﻔﺎت ﻟﻠﻧﻘﻠﯾﺎت</h2>
                 </div>
                 <div class="info-field">
                     <input type="text" id="companyAddress" placeholder="310822816500003">
