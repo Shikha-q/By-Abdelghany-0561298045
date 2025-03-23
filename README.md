@@ -202,18 +202,18 @@
         </div>
 
         <div class="info-container">
-            <div class="info-box">
-                <h2>ﻣؤﺳﺳﺔ ﺷيخه عبدالله اﻟﻧﺗﯾﻔﺎت ﻟﻠﻧﻘﻠﯾﺎت</h2>
-                <div class="info-field">
-                    <input type="text" id="companyAddress" value=="الرياض">
-                </div>
-                <div class="info-field">
-                    <input type="text" id="companyAddress" value=="310822816500003">
-                </div>
-                <div class="info-field">
-                    <input type="text" id="companyPhone" value="0592026994">
-                </div>
-            </div>
+<div class="info-box">
+    <h2>مؤسسة شيخه عبدالله النكاليات</h2>
+    <div class="info-field">
+        <input type="text" id="companyAddress" value="الرياض" readonly>
+    </div>
+    <div class="info-field">
+        <input type="text" id="companyID" value="310822816500003" readonly>
+    </div>
+    <div class="info-field">
+        <input type="text" id="companyPhone" value="0592026994">
+    </div>
+</div>            </div>
             <div class="info-box">
                 <h2>معلومات العميل</h2>
                 <div class="info-field">
