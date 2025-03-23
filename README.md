@@ -255,7 +255,7 @@
         </div>
 
         <div class="image-container">
-            <img id="background" src="[https://lh5.googleusercontent.com/OjIaqss_gBNtzS80G9JJria2Gxd-VK-2NarDNGY3XBhX5EPXHZWZQ_zkEz0h-fraYJrIsyCLzjA_JKuPCOil0kU](https://i.imgur.com/pEkprFd.png)" alt="************">
+            <img id="background" src="https://i.imgur.com/pEkprFd.png" alt="************">
         </div>
         
         <div class="footer">
